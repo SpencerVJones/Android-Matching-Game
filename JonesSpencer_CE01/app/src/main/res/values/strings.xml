@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JonesSpencer_CE01</string>
+    <string name="titleTextView">Memory Match</string>
+    <string name="GuessCount">Guess Count: 0</string>
+    <string name="restartButton">Restart</string>
+</resources>
