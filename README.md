@@ -10,7 +10,7 @@ This Android application is a letter matching game consisting of 16 unmarked but
 - **Edge-to-Edge Layout** for a seamless visual experience.
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository.
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
